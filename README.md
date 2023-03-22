@@ -28,9 +28,13 @@ Este foi um desafio do [Frontend Mentor](https://www.frontendmentor.io)  para me
 Construir um componente de código QR e deixá-lo o mais próximo possível do design.
 
 ## :trophy: Aprendizado <a name="#id04"></a>
+<br />
 
-- HTML 
-- CSS
+#### Construído com:
+<br />
+
+- Marcação de HTML5 
+- Propriedades personalizadas CSS
 - Grid
 
 ## :trophy: Prosseguimento <a name="id05"></a>
@@ -55,7 +59,7 @@ Construir um componente de código QR e deixá-lo o mais próximo possível do d
 
 <br />
 
-- Para acessar o site [Clique aqui](https://dancing-lolly-44932a.netlify.app/)
+- Para acessar o site [Clique aqui](https://clinquant-gelato-f83130.netlify.app/)
 
 <br />
 
@@ -99,7 +103,7 @@ Abrir pasta no editor de código.
 
 <br />
 
-- Personal Page - [Raíza Cirne Braz](https://lively-kangaroo-a1eaa7.netlify.app/)
+- Personal Page - [Raíza Cirne Braz](https://clinquant-gelato-f83130.netlify.app/)
 - Frontend Mentor - [@RaizaCirne](https://www.frontendmentor.io/profile/RaizaCirne)
 - GitHub - [RaizaCirne](https://github.com/RaizaCirne)
 - LinkedIn - [Raíza Cirne Braz](https://www.linkedin.com/in/ra%C3%ADzacirne/)
