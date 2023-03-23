@@ -6,11 +6,8 @@ body {
   margin: 0px;
   background: hsl(212, 45%, 89%);
   font-family: "Outfit", sans-serif;
-}
-
-.grid {
+  min-height: 100vh;
   display: grid;
-  height: 700px;
   place-content: center;
 }
 
@@ -28,7 +25,7 @@ body {
   border-radius: 10px;
 }
 
-h3 {
+h1 {
   color: hsl(218, 44%, 22%);
   font-weight: 700;
   font-size: 1.25em;
