@@ -15,7 +15,7 @@ body {
 .item {
   max-width: 250px;
   background: hsl(0, 0%, 100%);
-  padding: 15px;
+  padding: 0.938rem;
   text-align: center;
   border-radius: 10px;
 }
